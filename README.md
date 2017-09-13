@@ -1,8 +1,10 @@
 # Aula-quarta
-Repositório criado para apresentação da aula de quarta
+RepositÃ³rio criado para apresentaÃ§Ã£o da aula de quarta
 
-Teste 1: Luan e Cristian, fa�am alguma altera��o e comitem.
+Teste 1: Luan e Cristian, façam alguma alteração e comitem.
 
 Teste branch1
 
 Teste Commit do Luan
+
+Teste Cristian
